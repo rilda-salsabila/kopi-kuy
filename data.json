@@ -1,0 +1,124 @@
+{
+    "Iced Coffe": [
+      {
+        "foto": "https://feynman.coffee/cdn/shop/products/DirtyMatcha-01_1200x1200.jpg?v=1617538456",
+        "nama": "Matcha Coffee",
+        "size": "16 OZ",
+        "harga": "25.00",
+        "link": "#"
+      },
+      {
+        "foto": "https://www.averiecooks.com/wp-content/uploads/2014/07/cookiescreammilkshake-14.jpg",
+        "nama": "Cookies Coffee",
+        "size": "16 OZ",
+        "harga": "25.000",
+        "link": "#"
+      },
+      {
+        "foto": "https://images.ctfassets.net/v601h1fyjgba/TD1zj5MP5oiG0SoS3OTsl/a1c60a460870f84a72883cfe24a0e643/Iced_Caramel_Cappuccino.jpg",
+        "nama": "Caramel Cappucino",
+        "size": "16 OZ",
+        "harga": "25.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      },
+      {
+        "foto": "https://thelittlestcrumb.com/wp-content/uploads/oreo-iced-coffee-1.jpg",
+        "nama": "Oreo Coffee",
+        "size": "16 OZ",
+        "harga": "25.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
+    ],
+    "Latte": [
+      {
+        "foto": "https://flash-coffee.com/id/wp-content/uploads/sites/13/2023/06/MATCHA-LATTE.png",
+        "nama": "Matcha Latte",
+        "size": "16 OZ",
+        "harga": "30.000",
+        "link": "#"
+      },
+      {
+        "foto": "https://flash-coffee.com/id/wp-content/uploads/sites/13/2023/06/STRAWBERRY-LATTE-1.png",
+        "nama": "Strawberry Latte",
+        "size": "16 OZ",
+        "harga": "30.000",
+        "link": "#"
+      },
+      {
+        "foto": "https://flash-coffee.com/id/wp-content/uploads/sites/13/2023/06/AVO-LATTE.png",
+        "nama": "Avocado Latte",
+        "size": "16 OZ",
+        "harga": "30.000",
+        "link": "#"
+      },
+      {
+        "foto": "https://flash-coffee.com/id/wp-content/uploads/sites/13/2023/06/TOBLERONE-LATTE-600x375.png",
+        "nama": "Toblerone Latte",
+        "size": "16 OZ",
+        "harga": "30.000",
+        "link": "#"
+      }
+    ],
+    
+    "Snack": [
+      {
+        "nama": "Kentang Goreng",
+        "size": "1 Porsi",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://bukapasar.com/asset/foto_produk/hw8cwcj9j49rgm4kpifw.jpg"
+      },
+      {
+        "nama": "Cireng",
+        "size": "6 Pcs",
+        "harga": "16.000",
+        "link": "#",
+        "foto": "https://asset-2.tstatic.net/travel/foto/bank/images/Cireng-isi-ayam-cabai.jpg"
+      },
+      {
+        "nama": "Risol Mayo",
+        "size": "4 Pcs",
+        "harga": "14.000",
+        "link": "#",
+        "foto": "https://www.astronauts.id/blog/wp-content/uploads/2023/11/Resep-Risol-Mayo-Lumer-Cocok-Untuk-Usaha-Kuliner-1200x900.jpg"
+      },
+      {
+        "nama": "Pisang Keju",
+        "size": "6 Pcs",
+        "harga": "10.000",
+        "link": "#",
+        "foto": "https://www.sasa.co.id/medias/page_medias/16251286131623847721931652.png"
+      }
+    ],
+
+    "Makanan": [
+      {
+        "nama": "Seblak",
+        "size": "1 Porsi",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://shopee.co.id/inspirasi-shopee/wp-content/uploads/2021/11/seblak-ayam-resepsehat-com.webp"
+      },
+      {
+        "nama": "Boci",
+        "size": "6 Pcs",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQl3fSfi1e6UmI6SXQcZDVJNO6l5FzEH34JdOPFFdDQ&s"
+      },
+      {
+        "nama": "Nasi Goreng Spesial",
+        "size": "4 Pcs",
+        "harga": "20.000",
+        "link": "#",
+        "foto": "https://awsimages.detik.net.id/community/media/visual/2022/09/17/resep-nasi-goreng-udang-kemangi_43.jpeg?w=650"
+      },
+      {
+        "nama": "Mie Nyemek",
+        "size": "6 Pcs",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://www.dapurkobe.co.id/wp-content/uploads/mi-boncabe-nyemek.jpg"
+      }
+    ]
+  }
